@@ -22,7 +22,7 @@ public class FacebookAutomation {
 		driver.findElement(By.xpath("//input[@name = 'lastname']")).sendKeys("Padiyar");
 		
 		//Email ID
-		driver.findElement(By.name("reg_email__")).sendKeys("vishisy@gmail.com");
+		driver.findElement(By.name("reg_email__")).sendKeys("vishisy1111@gmail.com");
 		
 		//Password
 		driver.findElement(By.name("reg_passwd__")).sendKeys("Admin123");
